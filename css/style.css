@@ -1,0 +1,54 @@
+body{
+    background-color: #4f4f4d;
+    font-family: 'Courier New', Courier, monospace;
+    color:#ffffff
+}
+
+.my_photo1{
+    background: url(file:///home/kart/pt_web/Website/image/img2.jpeg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+.my_photo2{
+    background: url(../image/img3.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 360px;
+    height: 360px;
+}
+
+.nav_logo{
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.nav_bar {
+    font-size: 30 px;
+    font-weight: bold;
+}
+.container{
+    margin-top: 30px;
+}
+.row{
+}
+.col-8{
+}    
+.col-4{
+}  
+.col-3.nav_logo {
+}
+.col-9{
+}  
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}  
+.img_size{
+}  
+.title_photo {
+    text-align: center;
+}
